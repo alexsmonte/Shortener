@@ -1,0 +1,11 @@
+{
+  "name": "asmpkg/shortener",
+  "description": "Shortener API Google.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alex Monte",
+      "homepage":"http://www.leleco.blog.br"
+    }
+  ]
+}
