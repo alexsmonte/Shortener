@@ -7,5 +7,11 @@
       "name": "Alex Monte",
       "homepage":"http://www.leleco.blog.br"
     }
-  ]
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "autoload": {
+    "psr-0": {"asmpkg\\Shortener": "src/"}
+  }
 }
