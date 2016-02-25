@@ -24,7 +24,7 @@
  * de aplicativos que abrem ligações goo.gl, não importa qual plataforma ou dispositivo que eles estão.
  *
  */
-namespace shortener;
+namespace Asmpkg\Shortener;
 
 
 class Shortener
